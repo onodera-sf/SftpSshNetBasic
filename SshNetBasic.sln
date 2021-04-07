@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SshNetBasic", "SshNetBasic\SshNetBasic.csproj", "{9B3B4A2D-EDDB-4B3F-BFC1-BC682013B702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3B4A2D-EDDB-4B3F-BFC1-BC682013B702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B4A2D-EDDB-4B3F-BFC1-BC682013B702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B4A2D-EDDB-4B3F-BFC1-BC682013B702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B4A2D-EDDB-4B3F-BFC1-BC682013B702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5D7543-CB58-43C6-88F9-8D63C358A77F}
+	EndGlobalSection
+EndGlobal
